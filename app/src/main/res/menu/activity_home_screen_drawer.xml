@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_mjpru"
+            android:icon="@drawable/mjpru"
+            android:title="MJPRU" />
+        <item
+            android:id="@+id/nav_bcb"
+            android:icon="@drawable/logo"
+            android:title="Bareilly College" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/exit"
+            android:title="EXIT" />
+
+    </group>
+
+    <item android:title="Community">
+
+        <menu>
+            <item
+                android:id="@+id/nav_dovelopera"
+                android:icon="@drawable/about"
+                android:title="About Doveloper" />
+            <item
+                android:id="@+id/nav_rating"
+                android:icon="@drawable/rating"
+                android:title="give rating to app" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_doveloper"
+                android:icon="@drawable/gmail"
+                android:title="Gmail quarry" />
+            <item
+                android:id="@+id/nav_privacy"
+                android:icon="@drawable/policy"
+                android:title="Privacy policy" />
+        </menu>
+    </item>
+
+</menu>

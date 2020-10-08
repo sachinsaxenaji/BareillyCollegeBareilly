@@ -1,0 +1,349 @@
+<resources>
+
+
+    <string-array name="main_title">
+        <item>B.C.A.</item>
+        <item>B.B.A.</item>
+        <item>B.Sc. Physics</item>
+        <item>B.A. Sociology</item>
+        <item>B.Com.</item>
+        <item>P.G,D.C.A</item>
+        <item>B.Com. Hons</item>
+        <item>Education</item>
+        <item>Library</item>
+    </string-array>
+
+    <string-array name="sub_title">
+        <item>Bachelor in Computer Application</item>
+        <item>Bachelor of Business Administration</item>
+        <item>Bachelor in Science</item>
+        <item>Bachelor in Arts</item>
+        <item>Bachelor in Commerce</item>
+        <item>P.G,Diploma in Computer Application</item>
+        <item>Bachelor in Commerce Hons</item>
+        <item>Department of Education</item>
+        <item>Department of Library</item>
+    </string-array>
+
+    <string-array name="image_title">
+        <item>@drawable/bca1</item>
+        <item>@drawable/bba1</item>
+        <item>@drawable/science1</item>
+        <item>@drawable/ba1</item>
+        <item>@drawable/bcom1</item>
+        <item>@drawable/bca1</item>
+        <item>@drawable/bcom1</item>
+        <item>@drawable/medu1</item>
+        <item>@drawable/mlib1</item>
+    </string-array>
+    <string name="app_name">BareillyCollegeBareilly</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about">About</string>
+    <string name="large_text">
+        " Bareilly is a premier institute of M. J. P. Rohilkhand University located in Bareilly in the Indian state of Utter Pradesh. "
+        "It was established in the British period in the year 1837 "
+        "Bareilly College has now operated for over one hundred seventy seven years of useful services to the cause of the education not only in Rohikhand region but to entire north India. \n"
+        "We deliver education in almost all the subjects at undergraduate and postgraduate level. "
+        "We have a wealth of about 25000 students on rolls. One of the significant achievements of this institution, among many, is being granted a grade ‘A’  by the National Assessment and Accreditation Council (NAAC) for the Undergraduate, Post-graduate and doctoral programs of the college."
+        "This magnanimous achievement is the result of cumulative factors comprising the infrastructure, teaching pedagogy, administrative discipline, pertinacious spirit of the faculty members for the cause of education and the indefatigable efforts of its staff members. "
+        "The mission of our institution is to establish traditions which will foster creativity and growth of excellence. The institute has the following broad objectives:
+.\n"
+        "To generate new knowledge to promote academic growth by offering state-of-the-art undergraduate, postgraduate and doctoral programmes and by engaging a cutting-edge research work.
+\n"
+        "To identify, based on an informed perception of Indian, regional and global needs, areas of specialization upon which the institute can concentrate.
+\n"
+        "To develop human potential to its fullest extent so that intellectually capable and imaginatively gifted leaders can emerge in a range of professions.
+\n"
+        "To provide research and development consultancy which will promote contact with and be of service to society and to government and Civic organizations.
+\n"
+        "Our Values include academic integrity and accountability; respect and tolerance for the views of every individual; attention to issues of national relevance as well as of global concern.; breadth of understanding, including knowledge of the human science; appreciation of intellectual excellence and creativity.
+\n"
+        "With this mission and value policy we thus look forward to contribute to India and in particular to north India through excellence in education and research and to serve as a valuable resource for society; and remain a source of pride for all Indians.
+
+\n"
+
+
+
+    </string>
+    <string name="bad">
+"After independence India started its transition from an agrarian to an industrial society. As a result better understanding of the elements of conflict and change in social life was needed. It was in this backdro that the teaching of sociology was started in Bareilly College in the early sixties of the last century under the able guidance of Dr. R. N. Mukerjee, a sociologist, author and researcher par excellence. Sociology now constitutes a distinct and recognized field of study, with its own increasingly refined models, approaches and methods of research. Its rapid expansion in numbers of students and teachers reflects the need for extensive and critical social research.\n\n"
+"Sociology is taught at U. G. and P. G. level in the college, which is also a UGC recognized centre for social research. In U. G classes studies are taught about basic concepts of sociology Indian social system, social control and change social problems, research methodology and Indian Social Thinkers. The course at PG level offers studies in classical social Thinkers, advanced research methodology, sociology of culture, religion and deviance, sociological perspectives, Indian society and culture, Rural sociology and social Anthropology selected students can also opt for social problem related minor research projects."
+    </string>
+    <string name="bae">
+
+        "\n\n"
+        "According to the guidelines of M.J.P. Rohilkhand University, Bareilly, the admission in this course strictly based on 10+2 merit. The minimum 45% marks at 10+2 level needed for General and OBC category applicants and 40% marks for SC/ST category applicants.\n"
+    </string>
+    <string name="bat">
+        "Faculty Members:-\n"
+        "Dr (Mrs) NAVNEET AHUJA (In-charge)\n"
+        "Dr RAVINDRA BANSAL\n"
+        "Dr (Mrs) ANURADHA GOEL\n"
+        "Dr UMA CHARAN\n"
+
+    </string>
+    <string name="bcad">
+              " The basic objective of the programme is to open a channel of admission for computer courses for students who have done the 10+2 with Mathematics as one of the subjects and are interested in taking computer as a career. After acquiring the Bachelor's Degree in Computer (BCA) is a further educational opportunity to go for an MCA or Master programme of University. The duration of BCA course shall be three academic years consisting of six semesters. Each semester will be of about ninety working days duration and is followed by an examination of the University with a small break of summer vacations. The admission will be governed by the rules prescribed by the State Government/University from time to time."
+            "Infrastructure:\n"
+        "Computer Department in Bareilly College Bareilly has its own multistoried building. There is a separate computer lab for students. There is a separate library for students. Class rooms are well equipped with teaching facilities."</string>
+    <string name="bcae">"Eligibility for BCA
+\n"
+        "Admission to BCA course is open to a candidate who has passed Intermediate Examination of U.P. Board or C.B.S.E. and I.C.S.E. Boards or an examination recognised as equivalent to 10+2 with a minimum of 45% marks (40% marks in case of SC/ST categories) and Mathematics as one of the subjects in 10+2 (Intermediate) Examination."
+        "Admission Procedure\n\n"
+        "Admission to BCA programme shall be made by Bareilly College strictly through merit Index of 10+2 exam or equivalent. Reservation as per Govt. of U.P. Notification will be applicable.\n\n"
+
+       </string>
+    <string name="bcat">
+        "Faculty Member\n"
+               "Mrs ROMA SAXENA (In Charge)\n"
+               "Mr OMKAR SINGH\n"
+               "Dr MANO YADAV\n"
+    </string>
+    <string name="bbad">
+        "About the Course:\n"
+        "This course was started in the college during the session 2000-01 under the efficient and active managerial skills of Dr. N.L. Sharma, Ex-Head, Faculty of Commerce and Management Studies, Bareilly College, Bareilly.\n"
+        "BBA is a three year bachelor degree course. It consists of six semesters. This course provides the detail knowledge of theory and practice of management. The course curriculum is in such a way that students can get practical exposure of market environment and management cases. In current globalised era there is great need of management education therefore, in that direction, this course provides complete assistance to the students in developing the foundation for MBA course.\n\n"
+        "Infrastructure:-\n"
+        "BBA Department in Bareilly College Bareilly has its own multistoried building. There is a separate computer lab for BBA students. There is a separate library for BBA students. Class rooms are well equipped with teaching facilities."
+    </string>
+    <string name="bbae">
+        "\n"
+        "According to the guidelines of M.J.P. Rohilkhand University, Bareilly, the admission in this course strictly based on 10+2 merit. The minimum 45% marks at 10+2 level needed for General and OBC category applicants and 40% marks for SC/ST category applicants. Presently intake of 220 seats in BBA 1st semester is available in Bareilly college Bareilly. During the session 2011-12 there are more than 375 students in BBA department in total."
+        </string>
+    <string name="bbat">
+    "Teaching:-\n\n"
+        "All faculty members are well equipped with latest way of teaching. All  the faculty members worked on Personality Development of each student for which PD classes, Presentations, Group discussions, Quiz events etc conducted regularly in the department. Presently our passed students are working in different organizations at good positions.\n\n"
+        "Faculty Members:-\n\n"
+        "Dr. Atul Kumar Yadav (M.B.A.,NET,Ph.D.) (In-Charge)\n"
+        "Dr. Dinesh Pratap Singh (M.B.A.,NET, Ph.D.)\n"
+        "Mr. Raza Zaidi (M.B.A.,NET))\n"
+        "Dr. Hotam Singh (M.B.A.,Ph.D.))\n"
+        "Dr. Garima Singh (M.B.A.,Ph.D.)\n"
+        "Mrs. Richa Kinger (M.B.A., NET)\n"
+        "Mr. Harish Arora (M.B.A.,))\n"
+    </string>
+
+    <string name="pgdcad">
+
+        "About the Course:\n"
+"The fundamental objective of the Department is to provide opportunities for our students to develop a firm foundation in computers, mathematics and design methodology applied to the disciplines of the Computer Science. Our course covers all fundamentals, working and advanced concepts that provide a learning environment where students understand and are able to apply the most contemporary and essential tools needed for the in depth knowledge of computer
+science.\n\n""Placement\n\n"
+"Students of Computer Science Department are getting placement in
+various I.T Companies, Government and Non Government sectors, Academicals,
+and other Industries through placement cell of our institute. \n\n"
+
+        " The PGDCA course syllabus approved by MJPRU University has been formulated by eminent members of the IT industry. It has been structured in a way that will benefit the student so as to let him/her get a grip on the basic to the advance modules taught in the semesters\n\n"
+" Duration of the Course\n\n"
+        "One Year Diploma (2 Semesters)\n\n"
+    </string>
+    <string name="pgdcae">
+" Eligibility for PGDCA \n\n"
+        "Students seeking admission to the Post Graduate Diploma in Computer
+Application (PGDCA) program should have passed Graduation in any stream
+with 45% marks (40% marks in case of SC/ST categories) from any recognized
+University. Students who have fulfilled these conditions will be considered to
+have met the PGDCA eligibility criteria. There should not be more than 5yrs
+gap between graduation and the admission to PGDCA course\n\n"
+" Admission Procedure for PGDCA\n\n"
+        "Admission to PGDCA programme shall be made by Bareilly College
+strictly through merit Index of graduation examintation. Reservation as per Govt.
+of U.P. Notification will be applicable. \n\n"
+    </string>
+    <string name="pgdcat">
+        "Faculty Members:-\n\n\n"
+        "Mrs ROMA SAXENA (In Charge)\n"
+               "Mr OMKAR SINGH\n"
+               "Dr MANO YADAV\n"
+    </string>
+    <string name="bcomd">
+        "FACULTY OF COMMERCE\n"
+        "About the Course:\n"
+"The Department of Commerce was created in the year 1944 and it started its teaching work in collaboration with the Economics Department of the college and finally shifted to the Faculty of Commerce Building in the year 1950. Since 1950 this faculty is functioning as an independent unit for undergraduate, postgraduate and research.\n\n"
+    </string>
+    <string name="bcome">
+        "Research"
+         "Sociological Practice"
+        "According to the guidelines of M.J.P. Rohilkhand University, Bareilly, the admission in this course strictly based on 10+2 merit. The minimum 45% marks at 10+2 level needed for General and OBC category applicants and 40% marks for SC/ST category applicants. \n\"
+    </string>
+    <string name="bcomt">
+"Dr A K SAXENA\n"
+"Dr P K AGRAWAL (In Charge)\n"
+"Dr RAJEEV MEHROTRA\n"
+"Dr BHARTENDU SHARMA\n"
+"Dr S S SHARMA\n"
+"Dr BHOOPENDRA SINGH\n"
+"Dr OMKAR\n"
+"Dr ANOOP KUMAR\n"
+"Dr DAYA RAM GANGWAR\n"
+    </string>
+    <string name="bcomhd">
+
+        "About the Course:\n"
+"Bachelor of Commerce Honors (B.Com Honors) is a three-year under-graduate course modeled to offer the student with a number of management skills and at the same time also building in them proficiently in a specific area. The B.Com Honors is a career-oriented degree which provides a foundation in all aspects of commerce. Studying General Commerce prepares graduates for a wide range of careers in the business world. B.Com Honors at Bareilly College is designed to provide the student with a wide range of managerial skills while at the same time building competence in a particular area.\n\n"
+
+"The program at Bareilly College prepares the individual for the modern financial and accounting field. Some of the career options include business management, business development, accounting, marketing and advertising, banking, management consulting, economic analysis, financial planning, foreign affairs, fund management, international business and trade analysis, government administration, policy formulation, portfolio management in the private and public sectors.\n\n"
+    </string>
+    <string name="bcomhe">"Admission Procedure:-\n\n"
+"According to the guidelines of M.J.P. Rohilkhand University, Bareilly, the admission in this course strictly based on 10+2 Merit. The minimum 45% marks at 10+2 level needed for General and OBC Category applicants and 40% marks for SC/ST Category applicants. Presently intake of only 160 seats in B.Com Honors Ist year is available in Bareilly College Bareilly.\n\n"
+    </string>
+    <string name="bcomht">
+        "Faculty Members:-\n"
+        "The 179 years old college has started B.Com Honors from the session (2015–16). The teaching staff of B.Com Honors Department is well qualified as:\n\n"
+        "Dr. Priyank Mehrotra (In-Charge)\n"
+        "Dr. Shiv Shankar Maurya\n"
+        "Miss Shaifaly Saxena (Temp)\n"
+        "Dr Shubhanshu Shekhar"
+        "Dr. Garima Singh (M.B.A.,Ph.D.)\n"
+    </string>
+    <string name="mlibd">
+        "About the Course:\n"
+"The job of Librarian has undergone a significant change in its outlook, functions, methods, techniques and ranges of services. So the need of trained library professionals in order to manage the libraries in a better way and professional style has been felt all over the country and in this region also. Service of trained Librarians are required in all types of Libraries. National records, publications of vital and permanent importance and documents are systematically maintained in different Govt. departments and libraries. Keeping record and maintaining it in most efficient way and make if available to all those who need it is the basic function of a Librarian.\n\n"
+"The College has vast and rich Library with more than one lac books and subscribing a large number of periodicals and Journals. Thus, the college has the essential base for practical work of the trainees. It is with the background that Bareilly College, Bareilly has started one year degree course in the name "Bachelor of Library and information Science" from 2002-2003\n\n"
+       "OBJECTIVES\n\n"
+        "The objectives of the Bachelor of Library Information Science Degree Course are\n"
+        "To give the real basic fundamental for the application of Library and information system and activities.\n"
+        "To initiate strong understanding of Library and Information Science.\n"
+        "To train the students in the techniques of the Librarian and Management of Libraries.\n"
+        "To create an extensive development of Modern Library Science.\n"
+        "To make Library and Information Science as an effective tool of learning.\n"
+        "To teach the new practices/techniques of Library and Information Science.\n"
+        "To acquaint them generally with the social, cultural, educational and communicational frame work of the Library.\n"
+    </string>
+    <string name="mlibe">
+        "(1.1) The minimum qualifications for admission to this course is the possession of either.\n\n"
+        "1. Basic Bachelor's Degree in second division with a minimum of 45% marks. in aggregate; or (2) a post Graduate Degree in any discipline with a minimum of 45% marks in aggregate of this university or any other indian university established by act of legislature and recognized by the Academic Council of the University.\n\n"
+        "OR\n"
+        "(1.2) Graduate with 45% deputed candidates who are sponsored by government or university or approved college or public library authority as candidates with pay and deputation allowance under rules and are already working in the library.\n"
+                "OR\n"
+"
+(1.3) Graduate working librarians, with a minimum of five years experience in any of the libraries referred in Para 1.2 above.\n"
+        "OR\n"
+        "1.4) Graduate working as librarians, holding a certificate in library science and having minimum of three years of experience in any of the libraries referred in Para 1.2.
+(1.5) A postgraduate candidate in science shall be preferred\n"
+        "(2.1) Admission of the candidate in B.Lib. and information Science Course under the category 1.1 shall be made strictly on merit only. (2.2) In no case the admission governed by Para 1.2 to 1.4 shall exceed 10% of the total number of the seats\n"
+        "(2.3) The eligibility of the candidates under the categories mentioned in Paras 1.2 to 1.4 shall be determined on the basis of the admission test and/or on merit.\n\n"
+    </string>
+    <string name="mlibt">
+        "Faculty Members:-\n\n\n"
+        "The 179 years old college has started B.Com Honors from the session (2015–16). The teaching staff of B.Com Honors Department is well qualified as:\n\n"
+        "Dr. Priyank Mehrotra (In-Charge)\n"
+        "Dr. Shiv Shankar Maurya\n"
+        "Miss Shaifaly Saxena (Temp)\n"
+        "Dr Shubhanshu Shekhar"
+        "Dr. Garima Singh (M.B.A.,Ph.D.)\n"
+    </string>
+    <string name="medud">
+                       "DEPARTMENT OF TEACHER EDUCATION\n"
+        "About the Course:\n"
+"Education plays an important role in building up the views and personality of persons in a society. In this way educational institutions are of great importance in the process of nation building. Teachers being the pivot of educational institutions provide the key to the educational system and the whole process of education revolves around them. Students identify their teachers as an ideal for their life and also imitate them. Teachers are the role model for them. Having this view about teachers’ importance in the society, the Department of Teacher Education of Bareilly College, Bareilly has been involved in preparing responsible teachers since 1956-57. After its establishment, the Department of Teacher Education has been a premier institution of the Rohilkhand Region, doing great service by preparing and providing good teachers to the society.\n\n"
+"B.Ed. course of Bareilly College Bareilly started from the session 1956-57 named BT course. There were 210 seats up to 1998, under the grant-in-aid system. After the recognition of NRC, NCTE, Jaipur, it was reduced to 110 seats. As per new NCTE norms, the college has 100 seats in B.Ed. course, from 2015-17 session onwards.\n\n"
+       "In 2006 at the time of completion of 50 golden years of B.Ed. course, we added another feather in our cap by initiating the process of M.Ed. course. From 2008-09 session we got an opportunity to start M.Ed. course with 25 seats (one unit). From the session 2011-12 seats were increased up to 35 students as per NCTE guidelines. From 2015-17 onwards, as per new NCTE norms, the college has 50 seats in M.Ed. course.
+B.Ed. and M.Ed. courses are affiliated to Mahatma Jyotibha Phule  Rohilkhand University, Bareilly. All instructional and infrastructural facilities are as per norms. We are dedicated to impart quality teacher education.\n\n"
+        "In 2013, the Department of Teacher Education was awarded ‘A’ grade by NAAC.\n"
+"The Courses - Bachelor of Education (B.Ed.) and Master of Education (M.Ed.) courses are recognized by The Northern Regional Committee, National Council for Teacher Education (NCTE), Jaipur, Rajasthan (India). "
+"The Courses\n\n"
+       "Bachelor of Education (B.Ed.) and Master of Education (M.Ed.) courses are recognized by The Northern Regional Committee, National Council for Teacher Education (NCTE), Jaipur, Rajasthan (India). \n\n"
+"Admission Procedure\n\n"
+"The B.Ed. students are admitted through entrance test organized by a central body (University) at the State level. The M.Ed. students are admitted through entrance test organized by a central body (affiliating University). From time to time changes are made as per the state government directives. \n\n"
+"Fees-\n\n"
+  " B.Ed. fees is as per State Govt. Norms. M.Ed. Fees is as per University guidelines for self finance courses.\n\n"
+"Academic Session\n\n"
+       "2 years from Session 2015-17 onwards\n\n"
+"B.Ed. Teaching\n\n"
+        "The syllabus for B.Ed. and M.Ed.  is prepared by the Board of Studies of the University, as per NCTE guidelines.\n\n"
+"M.Ed. Teaching\n\n" </string>
+    <string name="medue">
+        "Admission Procedure:-\n"
+        "According to the guidelines of M.J.P. Rohilkhand University, Bareilly, the admission in this course strictly based on 10+2 merit. The minimum 45% marks at 10+2 level needed for General and OBC category applicants and 40% marks for SC/ST category applicants.\n"
+
+    </string>
+    <string name="medut">
+        "The Department tries to maintain high standard of teaching. Students are encouraged to get more knowledge through extra guidance by the faculty members. The department tries to promote interactive teaching learning through individual guidance and supervision of students during practice teaching. Lesson Planning, Micro Teaching, Simulated Teaching, Class-room Teaching are given importance in preparation of practice teaching. Supervision and evaluation of practice teaching is done by the faculty members. We have one intermediate school, run by the same managing body, for the purpose of practice teaching\n\n"
+        "The M.Ed. students are encouraged to develop a deeper knowledge and understanding of the concept of teacher education and as a part of preparation of reflective practitioners, they are encouraged to find a balance between theory and field exposure.  Also the M.Ed. students are motivated to develop a research oriented attitude by means of exposure to a rich library and seminars, workshops organized from time to time.\n\n"
+        "Faculty Members:-\n\n\n"
+     " Dr. Manju Khare\n"
+"Dr. Uma Vyas\n"
+"Dr. S.P. Arora\n"
+"Dr. Sangeeta Singh\n"
+"Dr. Anita Singh\n"
+
+
+    </string>
+    <string name="bscd">
+        "About the Course:\n"
+"Physics is the study of every thing next to us. It is the scientific study of matter and  energy and how they interact with each other. Physics deals with matter on scales ranging from sub atomic particles of nano dimensions to stars and even entire galaxies of very large dimensions. As an experimental science, Physics utilizes the scientific methods to formulate and test hypothesis that are based on observations  of the natural world. The objective  of Physics is to use the results of these experiments to formulate scientific laws in the language of mathematics, which can then be used to predict the other phenomena.  The prime goal of the physics is therefore to understand the natural world. In a broad sense Physics can be seen as the most fundamental of the natural science.\n\n"
+        "About the Department\n\n"
+"The Physics department has its own glorious past. In the department the graduate classes were started since 1926, while the Post graduate classes have been running since 1957. The department has highly qualified faculty of national/international repute. The department  has excellent reputation for its  academic as well as research activities . The well equipped laboratories for both undergraduate as well as  for post graduate classes is the prime attraction of the department.  The department also have a rich library and number of  educational films,  a large telescope and other various tools for betterment of understanding."
+
+    </string>
+    <string name="bsce">
+        "According to the guidelines of M.J.P. Rohilkhand University, Bareilly, the admission in this course strictly based on 10+2 merit. The minimum 45% marks at 10+2 level needed for General and OBC category applicants and 40% marks for SC/ST category applicants. \n"
+    </string>
+    <string name="bsct">
+        "The faculty members of the department are actively engaged in research in various discipline (both theoretical and experimental) e.g. Atomic and molecular collision, Magneto-hydrodynamics, thin films, Low and intermediate Nuclear Physics, Dielectrics, NMR, Nanoparticle Physics, Ultrasonic . A number of research projects funded by different agencies e.g.  UGC, DST, IUAC, IUC(DAEF) etc.  are currently running in the department . The department  also has collaborations with different National research centers and universities.  The department has well equipped research laboratories which includes  Computational lab, Ultrasonic lab, Nuclear Physics Lab, Nanoparticle and nanoscience lab, Thin film lab.\n\n"
+        Faculty Members:-\n\n"
+        "DR H V GAUTAM"
+        "DR SANJEEV SAXENA (In Charge)"
+        "DR V P SINGH"
+        "DR (Mrs) RITU AGRAWAL"
+        "DR SUNDAR SINGH"
+        "DR NEERAJ RATHORE"
+        "DR P K VERMA\n"
+        "DR AVINASH AGRAWAL"
+        "DR AJAI KUMAR SINGH"
+        "DR SANDEEP KUMAR SAXENA"
+        "DR PUSHPENDRA GANGWAR (MANDEYA POST)"
+    </string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="title_activity_bba">Bba</string>
+    <string name="title_activity_bca">Bca</string>
+    <string name="title_activity_bsc">Bsc</string>
+    <string name="title_activity_ba">Ba</string>
+    <string name="title_activity_bcom">Bcom</string>
+    <string name="title_activity_bcomh">Bcomh</string>
+    <string name="title_activity_med">Med</string>
+    <string name="title_activity_pgdca">Pgdca</string>
+    <string name="title_activity_mlib">Mlib</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="contact">Contact</string>
+    <string name="established_since_1837">Established Since 1837</string>
+    <string name="all_department_events_informations">All department Events informations</string>
+    <string name="todo">TODO</string>
+    <string name="about">About</string>
+    <string name="click_here_for_about_page_of_bareilly_college_bareilly">Click here for About page of Bareilly College Bareilly</string>
+    <string name="course">Course</string>
+    <string name="download_the_sillaybus_of_all_cources_in_pdf">Download the sillaybus of all cources in pdf</string>
+    <string name="click_here_for_course_page_of_bareilly_college_bareilly">Click here for Course page of Bareilly College Bareilly</string>
+    <string name="syllaybus">Syllaybus</string>
+    <string name="events">Events</string>
+    <string name="contact_to_bareilly_college_bareilly">Contact to Bareilly College Bareilly</string>
+    <string name="todooooo">TODO</string>
+    <string name="todoo">TODO</string>
+    <string name="todooo">TODO</string>
+    <string name="todoooo">TODO</string>
+
+    <string name="title_activity_doveloper">Doveloper</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="doveloper">The app is been developed by Sachin, A BCA third year student in Bareilly College Bareilly as a major project for his semester. You can contact me, if you had any kind of quarry related to app thorough the email. \n\n
+
+    sachinsaxena7228@gmail.com </string>
+
+</resources>

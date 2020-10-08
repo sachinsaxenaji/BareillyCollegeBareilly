@@ -1,0 +1,65 @@
+<resources>
+    <string-array name="main_title">
+        <item>B.C.A.</item>
+        <item>B.B.A.</item>
+        <item>B.Sc.</item>
+        <item>B.A.</item>
+        <item>B.Com.</item>
+        <item>P.G,D.C.A Hons</item>
+        <item>B.Com. Hons</item>
+        <item>M.Ed.</item>
+        <item>M.Lib.</item>
+    </string-array>
+
+    <string-array name="sub_title">
+        <item>Bachelor in Computer Application</item>
+        <item>Bachelor of Business Administration</item>
+        <item>Bachelor in Science</item>
+        <item>Bachelor in Arts</item>
+        <item>Bachelor in Commerce</item>
+        <item>P.G,Diploma in Computer Application</item>
+        <item>Bachelor in Commerce Hons</item>
+        <item>Master in Education</item>
+        <item>Master of Library</item>
+    </string-array>
+
+    <string-array name="image_title">
+        <item>@drawable/bcalogo</item>
+        <item>@drawable/bba</item>
+        <item>@drawable/science</item>
+        <item>@drawable/ba</item>
+        <item>@drawable/bcom</item>
+        <item>@drawable/pgdca</item>
+        <item>@drawable/bcomc</item>
+        <item>@drawable/medu</item>
+        <item>@drawable/mlib</item>
+    </string-array>
+
+
+    <string name="app_name">BareillyCollege</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_teachres">teachres</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="title_activity_about">about</string>
+</resources>

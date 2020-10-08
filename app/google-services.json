@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "984981196671",
+    "firebase_url": "https://bareillycollegebareilly-22503.firebaseio.com",
+    "project_id": "bareillycollegebareilly-22503",
+    "storage_bucket": "bareillycollegebareilly-22503.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984981196671:android:d6454b56e7cbc58c",
+        "android_client_info": {
+          "package_name": "com.example.user.bareillycollegebareilly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984981196671-54u99pvavm7ag6j9jih7bhon5tsjujb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.bareillycollegebareilly",
+            "certificate_hash": "58e4a17ecab3f02f3692bf6dcba14ac590429898"
+          }
+        },
+        {
+          "client_id": "984981196671-r5jm9965cl79i2feacu15v482rj3192j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.bareillycollegebareilly",
+            "certificate_hash": "80c9bed45eb9baf9f3fbeca10e8933e815631c16"
+          }
+        },
+        {
+          "client_id": "984981196671-pqbs5ooj4nqghttvrd1crrk01neimbei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqC2gQcAB2CaHX4K8dYmMToAwRzr-IvUQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984981196671-pqbs5ooj4nqghttvrd1crrk01neimbei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bcb.login.SignUp"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_marginTop="30dp"
+            android:id="@+id/iv"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:src="@drawable/logo"
+            android:background="#ab3939"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginLeft="15dp"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="345dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="10dp"
+            android:background="#e1dada"
+            android:gravity="center"
+            android:hint="Enter your Email Address..."
+            android:textColorHint="@color/black"
+            tools:layout_editor_absoluteX="21dp"
+            tools:layout_editor_absoluteY="52dp"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="344dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="10dp"
+            android:background="#e1dada"
+            android:gravity="center"
+            android:hint="Enter your Password..."
+            android:textColorHint="@color/black"
+            android:inputType="textPassword"
+            android:autofillHints="gmail.com"/>
+
+        <Button
+            android:id="@+id/register"
+            android:layout_width="354dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="#505ef6"
+            android:gravity="center"
+            android:onClick="click"
+            android:text="register"
+            android:textSize="20sp"
+            android:textColor="@color/black" />
+
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        />
+
+</LinearLayout>

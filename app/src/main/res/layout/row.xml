@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:background="@color/lightgray"
+    >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="1dip"
+        android:id="@+id/thumbnail"
+        android:layout_alignParentLeft="true"
+        android:background="@color/cardview_dark_background"
+        android:layout_marginRight="5dp"
+        >
+
+        <ImageView
+            android:src="@mipmap/ic_launcher_round"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/image_title"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:text="main title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/main_title"
+        android:textColor="#000"
+        android:textSize="20dp"
+        android:layout_marginTop="1dp"
+
+        android:layout_toRightOf="@+id/thumbnail"
+        android:textStyle="bold"/>
+    <TextView
+        android:text="subtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/sub_title"
+        android:textColor="#000"
+        android:textSize="15dp"
+        android:layout_alignBottom="@+id/thumbnail"
+        android:layout_alignLeft="@+id/main_title"
+        android:layout_alignStart="@+id/main_title" />
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="wrap_content"
+        android:src="@android:drawable/ic_media_ff"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:id="@+id/imageView2" />
+
+</RelativeLayout>

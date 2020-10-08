@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.bcb.user.course.Bcomh"
+    tools:showIn="@layout/activity_bcomh">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Course Description:"
+            android:layout_marginTop="15dp"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:background="@color/lightgray"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department OF B.Com (H)"
+            android:layout_marginTop="15dp"
+            android:textSize="22sp"
+            android:textStyle="bold"
+           />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="12dp"
+            android:text="@string/bcomhd"
+            android:textSize="17sp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Eligibility and Admission Procedure :"
+            android:layout_marginTop="15dp"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:background="@color/lightgray"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Course Description:"
+            android:layout_marginTop="15dp"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:background="@color/lightgray"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="12dp"
+            android:text="@string/bcomhe"
+            android:textSize="17sp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Teachres"
+            android:textStyle="bold"
+            android:layout_marginTop="15dp"
+            android:textSize="22sp"
+            android:background="@color/lightgray"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:text="@string/bcomht"
+            android:textSize="17sp"
+            />
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>
